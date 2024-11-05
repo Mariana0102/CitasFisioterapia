@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804572713113",
+    "project_id": "appcitasfisioterapia",
+    "storage_bucket": "appcitasfisioterapia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804572713113:android:9abee2466a6ce8c482a808",
+        "android_client_info": {
+          "package_name": "com.example.citasfisioterapia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFMfwxQRhCGObD1AP_aFu5AyLLqJ8EEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CitasFisioterapia</string>
+
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="bienvenido">Bienvenido a FisioPlus</string>
+    <string name="correo">correo</string>
+    <string name="titulo">FISIOPLUS</string>
+
+
+</resources>
